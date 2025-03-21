@@ -1,12 +1,9 @@
 # 👋 Hi, I'm Manju Vasanth
 
 ### 🚀 About Me
-I am an accomplished **QA Automation Engineer** driven by a passion for delivering flawless software solutions. With expertise in **Java**, **Selenium**, **Cucumber**, **Docker**, **RestAssured API testing**, **TestNG**, and **Maven**, I thrive in fast-paced environments where I can innovate, optimize, and streamline testing processes.
+I am a Java Software Engineer with a strong background in building scalable applications and architecting automation frameworks. My expertise spans Java, Spring Boot, Hibernate, RESTful APIs, Microservices, and Cloud Computing, allowing me to develop high-performance and reliable software solutions.
 
-One of my key achievements is the development of a **Custom GenAI Test Case Architect** using OpenAI, which **boosted accuracy by 80%** and **accelerated testing efficiency by 50%**. My focus is on **driving efficiency**, **enhancing test coverage**, and **automating complex workflows** to ensure high-quality software releases.
-
-I am proactive in exploring cutting-edge tools and methodologies, with a relentless commitment to continuous improvement and seamless integration across **CI/CD pipelines**. My goal is to collaborate with teams that value **innovation**, **speed**, and **excellence**.
-
+In addition to software development, I have extensive experience in QA automation, specializing in Selenium WebDriver, Cucumber, TestNG, JUnit, Docker, RestAssured, and CI/CD pipelines. My hands-on approach enables me to build applications and ensure their quality through automated and performance testing.
 ### 💼 Core Competencies
 
 - **Programming Languages:** Java
@@ -20,6 +17,7 @@ I am proactive in exploring cutting-edge tools and methodologies, with a relentl
 
 ### 🛠️ Technical Expertise
 
+- **Java Development**: – Building efficient, maintainable, and high-performing applications.
 - **Selenium WebDriver**: **Engineered** automated testing frameworks to ensure **flawless user experiences**.
 - **Cucumber**: **Led** BDD practices using Gherkin syntax to **drive collaboration** between technical and non-technical stakeholders.
 - **RestAssured**: **Mastered** API testing, **ensuring reliability** in REST services.
@@ -27,6 +25,11 @@ I am proactive in exploring cutting-edge tools and methodologies, with a relentl
 - **Maven**: **Automated** build processes, ensuring **fast, repeatable deployments**.
 - **Docker**: **Deployed** containerized environments for **scalable, isolated testing** setups.
 - **Custom GenAI Test Case Architect**: **Pioneered** an AI-powered test case generator, **automating manual testing efforts** and **reducing time** by 50%.
+- 
+  What I Bring to the Table
+🚀 End-to-end Development & Testing – Ensuring software quality at every stage.
+⚡ Performance Optimization – Enhancing efficiency through best coding and testing practices.
+🔍 Problem-Solving Mindset – Finding innovative solutions to complex software challenges.
 
 ### 📈 Key Achievements
 
