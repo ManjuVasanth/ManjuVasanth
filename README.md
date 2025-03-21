@@ -56,6 +56,9 @@ In addition to software development, I have extensive experience in QA automatio
 
 **Languages and Tools**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Springboot](https://img.shields.io/badge/Springboot-ED8C56?style=for-the-badge&logo=springboot&logoColor=green)
+![SpringCloud](https://img.shields.io/badge/SpringCloud-ED8D56?style=for-the-badge&logo=springcloud&logoColor=green)
+![ApacheKafka](https://img.shields.io/badge/Kafka-ED8C56?style=for-the-badge&logo=kafka&logoColor=red)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -64,7 +67,7 @@ In addition to software development, I have extensive experience in QA automatio
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Springboot](https://img.shields.io/badge/Springboot-ED8C56?style=for-the-badge&logo=springboot&logoColor=green)
+
 
 
 ---
