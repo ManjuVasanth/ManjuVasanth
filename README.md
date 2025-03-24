@@ -13,7 +13,7 @@ In addition to software development, I have extensive experience in QA automatio
 - **Version Control:** Git, GitHub
 - **CI/CD Tools:** Jenkins, Docker
 - **Agile Methodologies:** Scrum, Kanban
-- **API Testing:** RestAssured
+- **API Testing:** RestAssured,Postman,REST
 
 ### 🛠️ Technical Expertise
 
