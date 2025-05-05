@@ -34,6 +34,22 @@ In addition to software development, I have extensive experience in QA automatio
 ### 📈 Key Achievements
 
 -Wells Fargo Virtual Internship – Financial Portfolio Management System: Designed and developed a robust system to streamline financial portfolio management, gathering and analyzing business requirements to ensure seamless functionality. Engineered and structured an Entity Relationship Diagram (ERD) to optimize data modeling, integrating it within IntelliJ IDEA for enhanced maintainability and scalability. Collaborated with senior engineers and design teams to create tailored software solutions, deployed the final project to GitHub for version control and team collaboration, and built a Java-based application aligned with the ERD structure, ensuring efficient data handling and system performance.
+
+
+🌐 Spring Boot Projects
+📦 Inventory Management System:
+Built using Spring Boot, Spring Data JPA, and MySQL. Supports CRUD operations, stock alerts, and role-based access. Integrated REST APIs for third-party system interaction.
+
+📊 Employee Management Portal:
+A microservices-based app with Spring Boot, Hibernate, and Spring Cloud. Included API Gateway, Eureka Server, and secure JWT-based authentication.
+
+🩺 HealthCare Appointment Scheduler:
+RESTful Spring Boot service enabling patient registration, appointment booking, and notifications. Integrated Swagger for API documentation and tested using Postman & RestAssured.
+
+💸 Expense Tracker Microservice:
+Developed a Spring Boot-based expense tracking service with MongoDB. Features include expense categorization, filtering, and real-time updates through WebSocket integration.
+
+
 - **Custom GenAI Test Case Architect**: **Designed and implemented** a powerful GenAI test case generator, leveraging OpenAI to **increase test accuracy by 80%** and **cut testing time by half**. This tool supports complex scenarios, streamlining test creation and improving overall efficiency.
   
 - **Automated E-commerce Website Testing**: **Developed** a hybrid automation framework using Selenium WebDriver and Java. **Integrated** continuous testing into CI pipelines using Jenkins, resulting in **greater test coverage** and **reduced testing times**.
