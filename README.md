@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Manju Vasanth
 
 ### 🚀 About Me
-I am a Java Software Engineer with a strong background in building scalable applications and architecting automation frameworks. My expertise spans Java, Spring Boot, Hibernate, RESTful APIs, Microservices, and Cloud Computing, allowing me to develop high-performance and reliable software solutions.
+I am a Java Software Engineer with a strong background in building scalable applications and architecting automation frameworks. My expertise spans Java, Spring Boot, Hibernate, RESTful APIs, Microservices, and Spring Cloud, allowing me to develop high-performance and reliable software solutions.
 
 In addition to software development, I have extensive experience in QA automation, specializing in Selenium WebDriver, Cucumber, TestNG, JUnit, Docker, RestAssured, and CI/CD pipelines. My hands-on approach enables me to build applications and ensure their quality through automated and performance testing.
 ### 💼 Core Competencies
