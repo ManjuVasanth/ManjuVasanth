@@ -15,25 +15,53 @@ In addition to software development, I have extensive experience in QA automatio
 - **Agile Methodologies:** Scrum, Kanban
 - **API Testing:** RestAssured,Postman,REST
 
-### 🛠️ Technical Expertise
+🛠️ Technical Expertise
+Java (Core & Advanced): Proficient in OOP principles, multithreading, collections framework, exception handling, and Java 8+ features (Streams, Lambda, Functional Interfaces).
 
-- **Java Development**: – Building efficient, maintainable, and high-performing applications.
-- **Selenium WebDriver**: **Engineered** automated testing frameworks to ensure **flawless user experiences**.
-- **Cucumber**: **Led** BDD practices using Gherkin syntax to **drive collaboration** between technical and non-technical stakeholders.
-- **RestAssured**: **Mastered** API testing, **ensuring reliability** in REST services.
-- **TestNG**: **Designed** test suites that streamline test management and execution.
-- **Maven**: **Automated** build processes, ensuring **fast, repeatable deployments**.
-- **Docker**: **Deployed** containerized environments for **scalable, isolated testing** setups.
+Spring Ecosystem: Hands-on experience with Spring Boot, Spring MVC, Spring Data JPA, and Spring Security for building secure, RESTful web services.
+
+Microservices Architecture: Designed and developed loosely coupled, scalable microservices with inter-service communication via REST APIs and Spring Cloud components (Eureka, API Gateway, Config Server).
+
+RESTful API Development: Built and consumed APIs with proper HTTP methods, status codes, validation, and error handling. Used Postman and RestAssured for testing.
+
+Database Integration: Worked with MySQL, PostgreSQL, and MongoDB. Expertise in writing optimized queries, designing schema, and integrating with JPA/Hibernate.
+
+Authentication & Authorization: Implemented secure APIs using JWT, OAuth2, and Spring Security best practices.
+
+Testing & Quality Assurance: Developed unit and integration tests using JUnit, Mockito, and TestNG. Applied TDD practices and validated APIs using RestAssured.
+
+Build & Dependency Management: Managed builds with Maven, including lifecycle customization, dependency resolution, and plugin integration.
+
+Version Control & Collaboration: Used Git and GitHub for version control, branching strategies, and pull request workflows.
+
+CI/CD & DevOps: Integrated applications with Jenkins for continuous builds and tests. Used Docker to containerize services for consistent environment setup.
+
+Agile & SDLC: Participated in Agile (Scrum/Kanban) teams, following full SDLC from requirement gathering to deployment and monitoring.
 - **Custom GenAI Test Case Architect**: **Pioneered** an AI-powered test case generator, **automating manual testing efforts** and **reducing time** by 50%.
 - 
   What I Bring to the Table
-🚀 End-to-end Development & Testing – Ensuring software quality at every stage.
+🚀Build scalable APIs, optimize performance, ensure backend reliability.
 ⚡ Performance Optimization – Enhancing efficiency through best coding and testing practices.
 🔍 Problem-Solving Mindset – Finding innovative solutions to complex software challenges.
 
 ### 📈 Key Achievements
 
 -Wells Fargo Virtual Internship – Financial Portfolio Management System: Designed and developed a robust system to streamline financial portfolio management, gathering and analyzing business requirements to ensure seamless functionality. Engineered and structured an Entity Relationship Diagram (ERD) to optimize data modeling, integrating it within IntelliJ IDEA for enhanced maintainability and scalability. Collaborated with senior engineers and design teams to create tailored software solutions, deployed the final project to GitHub for version control and team collaboration, and built a Java-based application aligned with the ERD structure, ensuring efficient data handling and system performance.
+
+📡 Telstra Backend Forage Program – Spring Boot Microservices Project
+As part of the Telstra Backend Forage Program, I developed a microservices-based backend application using Spring Boot. This project involved designing and implementing RESTful services to manage customer data and service plans.
+
+🔧 Key Contributions:
+
+Developed RESTful APIs for customer and plan management using Spring Boot.
+
+Structured the application following a modular architecture to ensure scalability and maintainability.
+
+Utilized Maven for project build and dependency management.
+
+Implemented unit testing to ensure code reliability and quality.
+
+🛠️ Tech Stack: Java, Spring Boot, Maven, REST APIs, Git
 
 
 🌐 Spring Boot Projects
@@ -49,7 +77,7 @@ RESTful Spring Boot service enabling patient registration, appointment booking, 
 💸 Expense Tracker Microservice:
 Developed a Spring Boot-based expense tracking service with MongoDB. Features include expense categorization, filtering, and real-time updates through WebSocket integration.
 
-
+---------------------------Done some QA testing Projects too---------------------------------------------------------------------------------------------
 - **Custom GenAI Test Case Architect**: **Designed and implemented** a powerful GenAI test case generator, leveraging OpenAI to **increase test accuracy by 80%** and **cut testing time by half**. This tool supports complex scenarios, streamlining test creation and improving overall efficiency.
   
 - **Automated E-commerce Website Testing**: **Developed** a hybrid automation framework using Selenium WebDriver and Java. **Integrated** continuous testing into CI pipelines using Jenkins, resulting in **greater test coverage** and **reduced testing times**.
