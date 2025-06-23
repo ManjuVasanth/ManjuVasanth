@@ -11,7 +11,7 @@ Databases: MySQL, SQL
 DevOps & Tools: Docker, Kubernetes, Jenkins, Git, GitHub, Maven
 Testing: JUnit, Mockito, Cucumber, SonarQube
 Security: OAuth 2.0, JWT
-Messaging & Caching: Kafka, RabbitMQ
+Messaging & Caching: Kafka  
 Agile & Practices: Agile (Scrum), CI/CD, Design Patterns
 Other: API Development, Debugging, AI Integration (Gemini API)
 
