@@ -6,14 +6,14 @@ I am a Java Software Engineer with a strong background in building scalable appl
 In addition to software development, I have extensive experience in QA automation, specializing in Selenium WebDriver, Cucumber, TestNG, JUnit, Docker, RestAssured, and CI/CD pipelines. My hands-on approach enables me to build applications and ensure their quality through automated and performance testing.
 ### 💼 Core Competencies
 
-- **Programming Languages:** Java
-- **Test Automation Tools:** Selenium, Cucumber, RestAssured
-- **Testing Frameworks:** TestNG, JUnit
-- **Build Tools:** Maven, Gradle
-- **Version Control:** Git, GitHub
-- **CI/CD Tools:** Jenkins, Docker
-- **Agile Methodologies:** Scrum, Kanban
-- **API Testing:** RestAssured,Postman,REST
+Languages & Frameworks: Java, Spring Boot, Spring Data JPA, Hibernate, REST APIs
+Databases: MySQL, SQL
+DevOps & Tools: Docker, Kubernetes, Jenkins, Git, GitHub, Maven
+Testing: JUnit, Mockito, Cucumber, SonarQube
+Security: OAuth 2.0, JWT
+Messaging & Caching: Kafka, RabbitMQ
+Agile & Practices: Agile (Scrum), CI/CD, Design Patterns
+Other: API Development, Debugging, AI Integration (Gemini API)
 
 🛠️ Technical Expertise
 Java (Core & Advanced): Proficient in OOP principles, multithreading, collections framework, exception handling, and Java 8+ features (Streams, Lambda, Functional Interfaces).
